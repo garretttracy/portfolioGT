@@ -1,0 +1,33 @@
+Differences from chrome
+
+Firefox:
+CONTACT
+Comment box and submit button have changed their intended position and looks a bit jumbled.
+picture appears to bleed into footer element on contact page
+
+IE
+
+CONTACT
+Form does not retain design structure
+Icons are no longer resized
+Footer is no longer Center aligned
+List style type none is not in effect (there is a pointed list in the nav section)
+Color for nav section is incorrect! Changed from Cyan to Orange
+image does not have a border radius
+image appears as if it is apart of the footer element
+
+PROJECTS
+
+Box has disappeared
+border has disappeared
+text is no longer center aligned
+
+EXPERIENCE!
+
+Table no longer encompasses the width of the page
+
+WELCOME!
+
+Pictures are not properly resized and take over the home page
+Footer has been shifted to the left corner
+box and border are gone!

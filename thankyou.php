@@ -35,7 +35,8 @@ if ($visitor_msg == null) {
         echo "DB Error: " . $error_message;
         exit();
     }
-
+    
+    
     // Add the product to the database  
     $query = 'INSERT INTO visitor
                          (visitor_fname, visitor_lname, visitor_msg)
